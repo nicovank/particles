@@ -1,0 +1,1 @@
+new Particles(document.getElementById("particles"));
